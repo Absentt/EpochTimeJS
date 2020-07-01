@@ -1,7 +1,7 @@
 # EpochTimeJS
 PAPI epoch time get for player. First ever script sooo probably ineffecient and not the best way, but it works c:
 
-## JS Epoch Time Set UP
+## JS Epoch Time Set Up
 ### Firstly
 - Do: /papi ecloud download javascript
 - Do: /papi reload
