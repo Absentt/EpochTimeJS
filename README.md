@@ -8,7 +8,7 @@ PAPI epoch time get for player. First ever script sooo probably ineffecient and 
 
 ### Secondly
 - Go to: plugins/PlaceholderAPI/javascripts
-- Upload epoch_time.js into /javascripts
+- Upload: epoch_time.js into /javascripts
 - Go to: plugins/PlaceholderAPI
 - Open: javascript_placeholders.yml
 - Paste in the following:
