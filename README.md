@@ -38,7 +38,7 @@ You will also need to grab the time from https://currentmillis.com/ using the co
 
 
 ### Example:
-In this example I wanted to give a suffix only to people who joined before a certain date.
+In this example I wanted to give a suffix only to people who joined before a September 30th 2021
 ```yml
   'og':
     material: name_tag
