@@ -1,5 +1,5 @@
 # EpochTimeJS
-PAPI epoch time get for player. First ever script sooo probably innefecient and not the best way, but it works c:
+PAPI epoch time get for player. First ever script sooo probably ineffecient and not the best way, but it works c:
 
 ## JS Epoch Time Set UP
 ### Firstly
